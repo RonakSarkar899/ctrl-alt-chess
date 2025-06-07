@@ -14,3 +14,5 @@ Run the game: python chess_game.py
 Gameplay: Drag and drop pieces to play, and the computer will make its move automatically.
 
 Close the game by clicking the window's close button.
+
+Author - Ronak Sarkar
